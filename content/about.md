@@ -1,6 +1,7 @@
 ---
 title: Who?
 ---
+[<img src="https://media.licdn.com/dms/image/D4D03AQHIRthuj01ZBA/profile-displayphoto-shrink_100_100/0/1692702496988?e=1701302400&v=beta&t=0QYTQ90W7O9Sg7ALMjNpkm3uvUjlLXjtn_eZTgR2ZTM" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/plzp4n1c)
 
 My name is Miguel Cardoso, also known around the web as **plzp4n1c**.
 
