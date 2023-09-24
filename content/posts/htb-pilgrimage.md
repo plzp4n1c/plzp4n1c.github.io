@@ -1,5 +1,5 @@
 +++
-title = 'HTB - Pilgrimate'
+title = 'HTB - Pilgrimage'
 date = 2023-09-24T13:45:57+01:00
 draft = false
 +++
